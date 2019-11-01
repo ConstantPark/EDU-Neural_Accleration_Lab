@@ -5,6 +5,6 @@
 
 |  <center>번호</center> |  <center>논문명</center> |  <center>학회 또는 저널</center> | <center>분야</center> | <center>출판일</center> |
 |:--------|:--------:|--------:|--------:|--------:|
-|**cell 1x1** | <center>cell 1x2 </center> |*cell 1x3* |
-|**cell 2x1** | <center>cell 2x2 </center> |*cell 2x3* |
-|**cell 3x1** | <center>cell 3x2 </center> |*cell 3x3* |
+|**1** | <center>Scalpel: Customizing DNN Pruning to the Underlying Hardware Parallelism</center> |<center>ISCA </center>| <center>Pruning </center>|<center>2017 </center>|
+|**2** | <center>cell 2x2 </center> |*cell 2x3* |
+|**3** | <center>cell 3x2 </center> |*cell 3x3* |
