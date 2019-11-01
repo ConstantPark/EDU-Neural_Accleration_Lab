@@ -6,5 +6,5 @@
 |  <center>번호</center> |  <center>논문명</center> | <center>학회</center> | <center>분야</center> | <center>출판일</center> |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
 |<center>1</center> | <center>Scalpel: Customizing DNN Pruning to the Underlying Hardware Parallelism</center> | <center>ISCA</center> | <center>Pruning</center>|<center>2017</center>|
-|<center>2</center> | <center>cell 2x2 </center> |*cell 2x3* |
+|<center>2</center> | <center>Diagonalwise Refactorization: An Efficient Training Method for Depthwise Convolutions</center> |IJCNN | Algorithm | 2018 |
 |<center>3</center> | <center>cell 3x2 </center> |*cell 3x3* |
