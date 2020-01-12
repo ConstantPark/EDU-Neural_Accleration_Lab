@@ -12,7 +12,7 @@
 |<center>4</center> | Co-Design of Deep Neural Nets and Neural Net Accelerators for Embedded Vision Applications |DAC | NPU | 2018 |
 |<center>5</center> | µLayer:Low Latency On-Device Inference Using Cooperative Single-Layer Acceleration and Processor-Friendly Quantization |EuroSys | CPU+GPU | 2019 |
 |<center>6</center> | Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge |ASPLOS | Edge+Server | 2017 |
-|<center>7</center> | TSM2: Optimizing Tall-and-Skinny Matrix-Matrix Multiplication on GPUs |ICS | Irregular GEMM | 2019 |
+|<center>7</center> | Efficient Mobile Implementation of a CNN-based Object Recognitino System |ACM Multimedia | BLAS Design| 2019 |
 |<center>8</center> | Sparse Tensor Core: Algorithm and Hardware Co-Design for Vector-wise Sparse Neural Networks on Modern GPUs |Micro | Tensor Core | 2019 |
 |<center>9</center> | EFFICIENT WINOGRAD CONVOLUTION VIA INTEGER ARITHMETIC |Arxiv | Algorithm | 2019 |
 |<center>10</center> | Optimizing CNN Model Inference on CPUs |Usenix | ? | 2019 |
@@ -20,6 +20,10 @@
 |<center>12</center> | Rethinking floating point for deep learning |NIPS | Algorithm | 2018 |
 |<center>13</center> | Deep Learning Inference in Facebook Data Centers: Characterization, Performance Optimizations and Hardware Implications |Arxiv | Overview Paper | 2018 |
 |<center>14</center> | EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks |CVPR | Neural Network | 2019 |
+|<center>15</center> | Data-Free Quantization Through Weight Equalization and Bias Correction |ICCV | Quantization | 2019 |
+|<center>16</center> | The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks|ICLR | Pruning | 2019 |
+|<center>17</center> | Neural Network Inference on Mobile SoCs| Arxiv | Acceleration | 2019 |
+
 
 
 
