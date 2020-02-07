@@ -4,6 +4,8 @@
 11월 8일부터 진행된 본 랩에서는 참여 인원당 최소 2개 이상의 논문을 발표하였습니다.
 발표에 사용된 자료와 논문 리스트를 해당 Git은 포함하고 있습니다.
 
+Contributor: Constant Park (sonicstage12@naver.com), 이상록, 이동훈, 이지혜 (leejiae77@gmail.com), 오휘건, 이승희
+
 |  <center>번호</center> |  <center>논문명</center> | <center>학회</center> | <center>분야</center> | <center>출판일</center> |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
 |<center>1</center> | <center>Scalpel: Customizing DNN Pruning to the Underlying Hardware Parallelism</center> | <center>ISCA</center> | <center>Pruning</center>|<center>2017</center>|
